@@ -6,13 +6,11 @@
   *Principle of Business Analytics - BUA 500*  
   *International Technological University*  
   *Santa Clara, California, United States*  
-  *Email: kulkarnikavya6161@students.itu.edu*  
 
 - **Nathaly Cobo Piza**  
   *Principle of Business Analytics - BUA 500*  
   *International Technological University*  
   *Santa Clara, California, United States*  
-  *Email: cobopizanathaly1190@students.itu.edu*  
 
 ---
 
